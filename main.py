@@ -368,5 +368,4 @@ def run():
 
         What can you find amongst your data? If you're visiting Latvia and you're a coffee addict these places are a must!
         """)
-
 run()   
