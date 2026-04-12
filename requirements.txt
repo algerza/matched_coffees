@@ -1,5 +1,5 @@
 streamlit==1.30.0
-pandas==1.5.3
-numpy
+pandas==2.2.2
+numpy>=1.26
 plotly==5.1.0
 streamlit-option-menu
